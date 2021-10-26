@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**xing1357/xing1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stats
 
-Here are some ideas to get you started:
+[![xing1357's Github Stats](https://github-readme-stats.vercel.app/api?username=xing1357&show_icons=true&theme=slateorange
+)](https://github.com/anuraghazra/github-readme-stats) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What Im Working On
+- SimpleOS
+- Minecraft Clone in c++
+- Exploitable Framework
+- XASM Assembler
+- Learning OpenGL
+
+
