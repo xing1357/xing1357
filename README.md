@@ -7,11 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xing1357&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## What Im Working On
-- SimpleOS
-- Minecraft Clone in c++
-- Exploitable Framework
-- XASM Assembler
-- Learning OpenGL
 
 
